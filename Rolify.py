@@ -68,3 +68,4 @@ async def on_message(message, pf=prefix):
 
 client.run(token)
 # making a change
+# adding a second comment
