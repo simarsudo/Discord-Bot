@@ -70,7 +70,7 @@ client.run(token)
 # making a change
 # adding a second comment
 # 3d comment
-# yes yes yes
+# yes yes yes yes
 
 if True:
     pass
